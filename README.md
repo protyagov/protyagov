@@ -1,8 +1,4 @@
-### About
-
-
-
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there! <img src="https://media-exp1.licdn.com/dms/image/C5603AQF7tvmEHti0bQ/profile-displayphoto-shrink_200_200/0/1609043415928?e=1661990400&v=beta&t=CL3i6za_t-Xx9C2486oSbslRoNyApKhdP5kUgjNL1U8" width="200px" height="200px">
 
 ## 🚀 About Me
 
