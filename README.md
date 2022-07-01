@@ -1,4 +1,10 @@
-### Hi there 👋
+### About
+
+Tech enthusiast with 16 years of experience creating server backends, native mobile apps, data science projects, and web solutions for small startups, large scale retail, media, and government entities.
+
+
+
+![<LinkedIn>](https://www.linkedin.com/in/protyagov/<LinkedIn>-<blue>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 <!--
 **protyagov/protyagov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
