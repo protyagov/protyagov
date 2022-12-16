@@ -1,4 +1,5 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQF7tvmEHti0bQ/profile-displayphoto-shrink_200_200/0/1609043415928?e=1661990400&v=beta&t=CL3i6za_t-Xx9C2486oSbslRoNyApKhdP5kUgjNL1U8" width="200px" height="200px">
+<img src="https://media.licdn.com/dms/image/C4D03AQFRY9dsuZVoPQ/profile-displayphoto-shrink_400_400/0/1663857626459?e=1676505600&v=beta&t=-LYtaogFEPDXxvlRNVDq3ZHRu_MNShjIc-PVHDgt58Q" width="200px" height="200px">
+
 
 ## 🚀 About Me
 
