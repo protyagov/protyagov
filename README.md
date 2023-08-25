@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4D03AQFRY9dsuZVoPQ/profile-displayphoto-shrink_400_400/0/1663857626459?e=1676505600&v=beta&t=-LYtaogFEPDXxvlRNVDq3ZHRu_MNShjIc-PVHDgt58Q" width="200px" height="200px">
+<img src="https://martspec.com/img/team_alex.webp" width="200px" height="200px">
 
 
 ## 🚀 About Me
