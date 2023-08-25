@@ -7,13 +7,11 @@
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **painting**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
 ## 📈 Stats
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=protyagov&theme=oldie&row=1&margin-w=20&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&border_radius=20&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&border_radius=20&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
 ![Alex](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=transparent&utcOffset=3)
-![Alex](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=protyagov&theme=transparent)
+![Alex](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=protyagov&theme=transparent&hide=owner)
 ## 🏅 Achievements
 
 -   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
