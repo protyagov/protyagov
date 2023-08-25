@@ -4,6 +4,7 @@
 ## 🚀 About Me
 
 🎓 Tech enthusiast with 16 years of experience creating server backends, native mobile apps, data science projects, and web solutions for small startups, large scale retail, media, and government entities.
+![](https://komarev.com/ghpvc/?username=RimidalU)
 
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/protyagov) quite recently and made a name for myself.
