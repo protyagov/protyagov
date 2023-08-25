@@ -10,17 +10,12 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/protyagov) quite recently and made a name for myself.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **painting**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
-
-### 🔗 Links
-
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/protyagov/)
-[![telegram](https://img.shields.io/badge/Telegram-3178C6?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/RimidalU)  
-
-[![codewars](https://www.codewars.com/users/RimidalU/badges/micro)](https://www.codewars.com/users/RimidalU)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=protyagov&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=default&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=protyagov&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=protyagov&theme=default)
 
 ## 🏅 Achievements
 
