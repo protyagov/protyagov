@@ -12,9 +12,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=protyagov&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 </div>
 
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&hide_border=true)
+![ ](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&border_radius=20)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=transparent&utcOffset=3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=protyagov&theme=transparent)
+![ ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=protyagov&theme=transparent)
 ## 🏅 Achievements
 
 -   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
