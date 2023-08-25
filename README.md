@@ -1,19 +1,20 @@
-<img src="https://martspec.com/img/team_alex.webp" width="200px" height="200px">
-
-
 ## 🚀 About Me
 
 🎓 Tech enthusiast with 16 years of experience creating server backends, native mobile apps, data science projects, and web solutions for small startups, large scale retail, media, and government entities.
 
-![](https://komarev.com/ghpvc/?username=protyagov)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=protyagov.protyagov" alt="visitors">
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **painting**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=protyagov&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=default&utcOffset=3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=protyagov&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=protyagov&theme=default)
+## 📈 Stats
 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=protyagov&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+</div>
+
+![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=transparent&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=protyagov&theme=transparent)
 ## 🏅 Achievements
 
 -   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
@@ -83,15 +84,7 @@
 
 Want to read more? [Check out all the blogs](https://dev.to/protyagov)
 
-## 📈 Stats
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=protyagov&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=protyagov.protyagov" alt="visitors">
-</div>
 
 ## 🔗 Links
 
