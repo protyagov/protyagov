@@ -12,9 +12,15 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
-✈️ I love **traveling** too. I have been on solo trips to **Bhutan** in _2018_ and to **Hyderabad, India** in _2021_.
+### 🔗 Links
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/protyagov/)
+[![telegram](https://img.shields.io/badge/Telegram-3178C6?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/RimidalU)  
+
+[![codewars](https://www.codewars.com/users/RimidalU/badges/micro)](https://www.codewars.com/users/RimidalU)
+
+
 
 ## 🏅 Achievements
 
