@@ -2,12 +2,13 @@
 
 🎓 Tech enthusiast with 16 years of experience creating server backends, native mobile apps, data science projects, and web solutions for small startups, large scale retail, media, and government entities.
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=protyagov.protyagov" alt="visitors">
+![](https://visitor-badge.laobi.icu/badge?page_id=protyagov.protyagov)
+![](https://img.shields.io/website?url=https%3A%2F%2Fmartspec.com)
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **painting**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
 ## 📈 Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=protyagov&theme=oldie&row=1&margin-w=20&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=protyagov&theme=oldie&row=1&margin-w=28&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&border_radius=20&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
 ![Alex](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=transparent&utcOffset=3)
@@ -52,19 +53,14 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Block-Chain Development
-
-![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ## 📝 Top Blog Posts
 
--   [Zero to Hero: Front End Developer Roadmap](https://dev.to/protyagov/front-end-developer-roadmap-zero-to-hero-4pkf)
--   [Beautify Your GitHub Profile like a Pro](https://dev.to/protyagov/beautify-your-github-profile-like-a-pro-5093)
--   [5 projects to master Front End Development](https://dev.to/protyagov/5-projects-to-master-front-end-development-57p)
--   [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/protyagov/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
--   [5 Tips Every React Developer Should Know](https://dev.to/protyagov/5-tips-every-react-developer-should-know-1ghh)
+-   [SwiftUI — Send email using MFMailCompose from MessageUI](https://martspec.medium.com/swiftui-send-email-using-mfmailcompose-from-messageui-b217370ff024)
+-   [SwiftUI send email](https://martspec.medium.com/swiftui-send-email-e9ef558a9827)
+-   [Apple Watch 8 Bug: SwiftUI Navigation Stack pops back with TabView](https://martspec.medium.com/apple-watch-8-bug-swiftui-navigation-stack-pops-back-with-tabview-e820630b51df)
+-   [Twitter identity sabotage. It only costs $8 to cause billions of damage.](https://martspec.medium.com/twitter-identity-sabotage-it-only-costs-8-to-cause-billions-of-damage-elon-musk-reaction-7270799b0134)
+-   [Who the hell did this phone form design!?](https://www.linkedin.com/posts/protyagov_design-designer-ui-activity-6974485186751188992-il8d?utm_source=share&utm_medium=member_desktop)
 
 Want to read more? [Check out all the blogs](https://dev.to/protyagov)
 
@@ -72,11 +68,7 @@ Want to read more? [Check out all the blogs](https://dev.to/protyagov)
 
 ## 🔗 Links
 
-![](https://img.shields.io/website?url=https%3A%2F%2Fmartspec.com)
-
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://martspec.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/protyagov)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/protyagov)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/protyagov)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@martspec)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/martspec_com/)
