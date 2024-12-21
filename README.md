@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-🎓 Tech enthusiast with 18 years of experience creating server backends, native mobile apps, data science projects, and web solutions for small startups, large scale retail, media, and government entities.
+🎓 Tech enthusiast with 19 years of experience in creating server backends, native mobile apps, data science projects, web solutions, and team management across various sectors, including small startups, large retail, media, and government entities.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=protyagov.protyagov)
 ![](https://img.shields.io/website?url=https%3A%2F%2Fmartspec.com)
