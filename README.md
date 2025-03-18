@@ -13,7 +13,7 @@
 ## 🏋️ Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=protyagov&theme=flat&row=1&margin-w=28&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&border_radius=20&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
+![Stats](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&card_width=300&border_radius=20&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
 [![GitHub Streak](https://streak-stats.demolab.com?user=protyagov&theme=transparent&hide_border=true&card_width=150&card_height=150&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ![Alex](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=transparent&utcOffset=3)
 <br>
