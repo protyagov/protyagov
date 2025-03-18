@@ -1,25 +1,33 @@
 ## 🚀 About Me
 
-🎓 Tech enthusiast with 19 years of experience in creating server backends, native mobile apps, data science projects, web solutions, and team management across various sectors, including small startups, large retail, media, and government entities.
+🎓 Tech enthusiast with 20 years of experience in creating server backends, native mobile apps, data science projects, web solutions, and team management across various sectors, including small startups, large retail, media and government entities.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=protyagov.protyagov)
 ![](https://img.shields.io/website?url=https%3A%2F%2Fmartspec.com)
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **painting**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+<br>
+<br>
+<br>
 
-## 📈 Stats
+## 🏋️ Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=protyagov&theme=oldie&row=1&margin-w=28&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&border_radius=20&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
 ![Alex](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=transparent&utcOffset=3)
-![Alex](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=protyagov&theme=transparent&hide=owner)
+<br>
+<br>
+<br>
+
 ## 🏅 Achievements
 
 -   🏆 **The Best Business Media App** by Appy Awards (March 2016)
 -   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
 -   🎓 **Graduated with Honors** Magna Cum Laude (December 2006)
 -   🤝 **The National Dean's List** as student at Texas Tech University (2002-2004)
-
+<br>
+<br>
+<br>
 
 ## 🛠️ Skills
 
@@ -40,8 +48,6 @@
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -57,7 +63,6 @@
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -85,7 +90,9 @@
 ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+<br>
+<br>
+<br>
 
 ## 📝 Top Blog Posts
 
