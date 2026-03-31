@@ -1,20 +1,19 @@
-## 🚀 About Me
+## 🎓 Engineering Lead | Principal Software Engineer
 
-🎓 Tech enthusiast with 20 years of experience in creating server backends, native mobile apps, data science projects, web solutions, and team management across various sectors, including small startups, large retail, media and government entities.
+Over **20 years** of experience delivering high-performance native **mobile apps**, robust server backends, and data-driven web solutions. I specialize in building **scalable digital products** and leading cross-functional engineering teams across diverse sectors, including agile startups, large-scale retail, media, and government entities.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=protyagov.protyagov)
 ![](https://img.shields.io/website?url=https%3A%2F%2Fmartspec.com)
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **painting**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 <br>
 <br>
 <br>
 
-## 🏋️ Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=protyagov&theme=flat&row=1&margin-w=28&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 Stats
+[![trophy](https://nirzak-trophies.vercel.app/?username=protyagov&theme=flat&row=1&margin-w=28&no-bg=true&no-frame=true)](https://github.com/Nirzak/github-trophies-self-deploy)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
-![Alex](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=transparent&utcOffset=3)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=transparent&utcOffset=3)
 <br>
 <br>
 <br>
