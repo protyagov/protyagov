@@ -7,7 +7,6 @@ Over **20 years** of experience delivering high-performance native **mobile apps
 
 <br>
 <br>
-<br>
 
 ## 🚀 Stats
 [![trophy](https://nirzak-trophies.vercel.app/?username=protyagov&theme=flat&row=1&margin-w=28&no-bg=true&no-frame=true)](https://github.com/Nirzak/github-trophies-self-deploy)
