@@ -97,8 +97,6 @@ Over **20 years** of experience delivering high-performance native **mobile apps
 -   [Twitter identity sabotage. It only costs $8 to cause billions of damage.](https://martspec.medium.com/twitter-identity-sabotage-it-only-costs-8-to-cause-billions-of-damage-elon-musk-reaction-7270799b0134)
 -   [Who the hell did this phone form design!?](https://www.linkedin.com/posts/protyagov_design-designer-ui-activity-6974485186751188992-il8d?utm_source=share&utm_medium=member_desktop)
 
-Want to read more? [Check out all the blogs](https://dev.to/protyagov)
-
 
 
 ## 🔗 Links
