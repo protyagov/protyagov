@@ -1,9 +1,15 @@
-## 🎓 Engineering Lead | Principal Software Engineer
+## 🎓 Principal Software Engineer
 
 Over **20 years** of experience delivering high-performance native **mobile apps**, robust server backends, and data-driven web solutions. I specialize in building **scalable digital products** and leading cross-functional engineering teams across diverse sectors, including agile startups, large-scale retail, media, and government entities.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=protyagov.protyagov)
-![](https://img.shields.io/website?url=https%3A%2F%2Fmartspec.com)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=protyagov.protyagov" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fmartspec.com" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Swift-Since%202014-F05138?logo=swift&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Experience-18%2B%20Years-30B0C7" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/protyagov?style=flat&color=F2C94C" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Apps-47%20Published-2ea043" />
+
 
 <br>
 <br>
@@ -11,8 +17,8 @@ Over **20 years** of experience delivering high-performance native **mobile apps
 ## 🚀 Stats
 [![trophy](https://nirzak-trophies.vercel.app/?username=protyagov&theme=flat&row=1&margin-w=28&no-bg=true&no-frame=true)](https://github.com/Nirzak/github-trophies-self-deploy)
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=protyagov&theme=transparent&utcOffset=3)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=protyagov&theme=github-compact)
+
 <br>
 <br>
 <br>
@@ -23,7 +29,11 @@ Over **20 years** of experience delivering high-performance native **mobile apps
 -   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
 -   🎓 **Graduated with Honors** Magna Cum Laude (December 2006)
 -   🤝 **The National Dean's List** as student at Texas Tech University (2002-2004)
-[![GitHub Streak](https://streak-stats.demolab.com?user=protyagov&theme=transparent&hide_border=true&card_height=150)](https://git.io/streak-stats)
+
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
+[![GitHub Streak](https://streak-stats.demolab.com?user=protyagov&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+
 <br>
 <br>
 <br>
@@ -34,7 +44,6 @@ Over **20 years** of experience delivering high-performance native **mobile apps
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=whit)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,7 +68,6 @@ Over **20 years** of experience delivering high-performance native **mobile apps
 
 ### Front-End Development
 
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
@@ -77,18 +85,6 @@ Over **20 years** of experience delivering high-performance native **mobile apps
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-### Other
-![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 <br>
 <br>
