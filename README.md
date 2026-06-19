@@ -31,7 +31,7 @@ Over **20 years** of experience delivering high-performance native **mobile apps
 -   🤝 **The National Dean's List** as student at Texas Tech University (2002-2004)
 
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=protyagov&show_icons=true&theme=transparent&hide_border=true&custom_title=Activity&show=reviews&rank_icon=percentile)
-[![GitHub Streak](https://streak-stats.demolab.com?user=protyagov&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 
 
 <br>
